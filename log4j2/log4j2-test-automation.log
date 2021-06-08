@@ -1,0 +1,126 @@
+[INFO ] 2021-06-08 09:41:07.050 [main] Log - Test is starting
+[INFO ] 2021-06-08 09:43:20.750 [main] Log - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 09:43:20.827 [main] Log - Tie price: $20
+[INFO ] 2021-06-08 09:44:05.593 [main] Log - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 09:44:05.670 [main] Log - Tie price: $20
+[INFO ] 2021-06-08 09:44:21.881 [main] Log - This is the sum of all displayed products sizes: 5.0
+[INFO ] 2021-06-08 09:44:29.695 [main] Log - This is the sum of all displayed products prices: 252.0
+[INFO ] 2021-06-08 09:45:31.657 [main] LogUtil - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 09:45:31.728 [main] LogUtil - Tie price: $20
+[INFO ] 2021-06-08 09:54:43.131 [main] Log - Wait for page title to appear Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 09:54:43.177 [main] Log - Click on search link [[ChromeDriver: chrome on WINDOWS (c280280560eeb354dc08a83973624bd8)] -> xpath: //li//a[@href = '/search']]
+[INFO ] 2021-06-08 09:54:43.343 [main] Log - Type text to search BLACK POPLIN SKINNY TIE
+[INFO ] 2021-06-08 09:54:43.583 [main] Log - Send "Enter" key
+[INFO ] 2021-06-08 09:54:44.114 [main] Log - Wait for page title to appear Search: 1 result found for "BLACK POPLIN SKINNY TIE" – SkinnyTiesShop
+[INFO ] 2021-06-08 09:54:44.215 [main] Log - Click on search result: [[ChromeDriver: chrome on WINDOWS (c280280560eeb354dc08a83973624bd8)] -> css selector: div.ProductItem]
+[INFO ] 2021-06-08 09:54:47.471 [main] Log - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 09:54:47.532 [main] Log - Tie price: $20
+[INFO ] 2021-06-08 10:00:38.554 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:00:38.576 [main] Log - Click on search link
+[INFO ] 2021-06-08 10:00:38.762 [main] Log - Search for this text: BLACK POPLIN SKINNY TIE
+[INFO ] 2021-06-08 10:00:38.993 [main] Log - Send "Enter" key
+[INFO ] 2021-06-08 10:00:39.553 [main] Log - Wait for following page title to appear: Search: 1 result found for "BLACK POPLIN SKINNY TIE" – SkinnyTiesShop
+[INFO ] 2021-06-08 10:00:39.611 [main] Log - Click on search result
+[INFO ] 2021-06-08 10:00:42.877 [main] Log - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 10:00:42.942 [main] Log - Tie price: $20
+[INFO ] 2021-06-08 10:02:49.706 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:02:52.491 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:02:52.512 [main] Log - Click on search link
+[INFO ] 2021-06-08 10:02:52.729 [main] Log - Search for this text: BLACK POPLIN SKINNY TIE
+[INFO ] 2021-06-08 10:02:53.031 [main] Log - Send "Enter" key
+[INFO ] 2021-06-08 10:02:53.624 [main] Log - Wait for following page title to appear: Search: 1 result found for "BLACK POPLIN SKINNY TIE" – SkinnyTiesShop
+[INFO ] 2021-06-08 10:02:53.671 [main] Log - Click on search result
+[INFO ] 2021-06-08 10:02:57.221 [main] Log - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 10:02:57.287 [main] Log - Tie price: $20
+[INFO ] 2021-06-08 10:05:15.634 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:05:15.677 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:05:17.641 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:05:17.660 [main] Log - Click on search link
+[INFO ] 2021-06-08 10:05:17.889 [main] Log - Search for this text: BLACK POPLIN SKINNY TIE
+[INFO ] 2021-06-08 10:05:18.247 [main] Log - Send "Enter" key
+[INFO ] 2021-06-08 10:05:18.795 [main] Log - Wait for following page title to appear: Search: 1 result found for "BLACK POPLIN SKINNY TIE" – SkinnyTiesShop
+[INFO ] 2021-06-08 10:05:18.871 [main] Log - Click on search result
+[INFO ] 2021-06-08 10:05:22.153 [main] Log - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 10:05:22.237 [main] Log - Tie price: $20
+[INFO ] 2021-06-08 10:05:22.735 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:14:46.068 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:14:46.111 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:14:48.890 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:15:56.639 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:15:56.674 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:15:58.540 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:15:58.547 [main] Log - Click on search link
+[INFO ] 2021-06-08 10:15:58.779 [main] Log - Search for this text: BLACK POPLIN SKINNY TIE
+[INFO ] 2021-06-08 10:15:59.136 [main] Log - Send "Enter" key
+[INFO ] 2021-06-08 10:15:59.809 [main] Log - Wait for following page title to appear: Search: 1 result found for "BLACK POPLIN SKINNY TIE" – SkinnyTiesShop
+[INFO ] 2021-06-08 10:15:59.817 [main] Log - Click on search result
+[INFO ] 2021-06-08 10:16:00.528 [main] Log - Got tie description
+[INFO ] 2021-06-08 10:16:03.316 [main] Log - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 10:16:03.317 [main] Log - Got tie price
+[INFO ] 2021-06-08 10:16:03.385 [main] Log - Tie price: $20
+[INFO ] 2021-06-08 10:16:03.879 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:16:54.835 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:16:54.883 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:16:56.804 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:16:56.812 [main] Log - Click on search link
+[INFO ] 2021-06-08 10:16:57.073 [main] Log - Search for this text: BLACK POPLIN SKINNY TIE
+[INFO ] 2021-06-08 10:16:57.412 [main] Log - Send "Enter" key
+[INFO ] 2021-06-08 10:16:58.079 [main] Log - Wait for following page title to appear: Search: 1 result found for "BLACK POPLIN SKINNY TIE" – SkinnyTiesShop
+[INFO ] 2021-06-08 10:16:58.112 [main] Log - Click on search result
+[INFO ] 2021-06-08 10:16:58.786 [main] Log - Got tie description
+[INFO ] 2021-06-08 10:17:01.559 [main] Log - Tie description: This is a two and a half inch black poplin cotton/polyester blend skinny tie. This tie has a smooth matte finish and is a great alternative to our two inch black satin microfiber tie which has a more satiny finish.
+[INFO ] 2021-06-08 10:17:01.559 [main] Log - Got tie price
+[INFO ] 2021-06-08 10:17:01.629 [main] Log - Tie price: $20
+[INFO ] 2021-06-08 10:17:02.104 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:17:24.244 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:17:24.292 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:17:26.099 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:17:26.107 [main] Log - Mouse over "Pattern" item from Top Menu and click on Retro item from the Dropdown Menu
+[INFO ] 2021-06-08 10:17:26.751 [main] Log - Wait for this page: https://skinnyties.com/collections/retro
+[INFO ] 2021-06-08 10:17:28.289 [main] Log - Got all ties description
+[INFO ] 2021-06-08 10:17:28.295 [main] Log - This is the sum of all displayed products sizes: 5.0
+[INFO ] 2021-06-08 10:17:28.731 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:17:29.821 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:17:29.823 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:17:31.591 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:17:31.601 [main] Log - Click on "TieBar" item from Top Menu
+[INFO ] 2021-06-08 10:17:31.858 [main] Log - Wait for this page: https://skinnyties.com/collections/tie-bars
+[INFO ] 2021-06-08 10:17:36.119 [main] Log - Got all ties price
+[INFO ] 2021-06-08 10:17:36.120 [main] Log - This is the sum of all displayed products prices: 252.0
+[INFO ] 2021-06-08 10:17:36.419 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:25:40.455 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:25:40.505 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:25:42.414 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:25:42.423 [main] Log - Mouse over "Pattern" item from Top Menu and click on "Retro" item from the Dropdown Menu
+[INFO ] 2021-06-08 10:25:42.963 [main] Log - Wait for this page: https://skinnyties.com/collections/retro
+[INFO ] 2021-06-08 10:25:48.804 [main] Log - Scroll to last given page element
+[INFO ] 2021-06-08 10:25:48.876 [main] Log - Got all ties description
+[INFO ] 2021-06-08 10:25:48.879 [main] Log - This is the sum of all displayed products sizes: 5.0
+[INFO ] 2021-06-08 10:25:49.244 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:25:50.108 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:25:50.111 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:25:51.853 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:25:51.859 [main] Log - Click on "TieBar" item from Top Menu
+[INFO ] 2021-06-08 10:25:52.028 [main] Log - Wait for this page: https://skinnyties.com/collections/tie-bars
+[INFO ] 2021-06-08 10:25:57.860 [main] Log - Scroll to last given page element
+[INFO ] 2021-06-08 10:25:58.589 [main] Log - Got all ties price
+[INFO ] 2021-06-08 10:25:58.589 [main] Log - This is the sum of all displayed products prices: 252.0
+[INFO ] 2021-06-08 10:25:58.968 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:26:28.151 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:26:28.203 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:26:30.057 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:26:30.064 [main] Log - Mouse over "Pattern" item from Top Menu and click on "Retro" item from the Dropdown Menu
+[INFO ] 2021-06-08 10:26:30.563 [main] Log - Wait for this page: https://skinnyties.com/collections/retro
+[INFO ] 2021-06-08 10:26:36.356 [main] Log - Scroll to last given page element
+[INFO ] 2021-06-08 10:26:36.425 [main] Log - Got all ties description
+[INFO ] 2021-06-08 10:26:36.428 [main] Log - This is the sum of all displayed products sizes: 5.0
+[INFO ] 2021-06-08 10:26:36.750 [main] Log - Closed driver
+[INFO ] 2021-06-08 10:26:37.657 [main] Log - Finished loading driver and base url
+[INFO ] 2021-06-08 10:26:37.660 [main] Log - Open this page https://skinnyties.com/
+[INFO ] 2021-06-08 10:26:39.565 [main] Log - Wait for following page title to appear: Skinny Ties | Nothing but skinny ties. – SkinnyTiesShop
+[INFO ] 2021-06-08 10:26:39.572 [main] Log - Click on "TieBar" item from Top Menu
+[INFO ] 2021-06-08 10:26:39.723 [main] Log - Wait for this page: https://skinnyties.com/collections/tie-bars
+[INFO ] 2021-06-08 10:26:45.540 [main] Log - Scroll to last given page element
+[INFO ] 2021-06-08 10:26:46.272 [main] Log - Got all ties price
+[INFO ] 2021-06-08 10:26:46.272 [main] Log - This is the sum of all displayed products prices: 252.0
+[INFO ] 2021-06-08 10:26:46.622 [main] Log - Closed driver
